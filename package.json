@@ -1,5 +1,5 @@
 {
-  "homepage": "https://craiiiig.github.io/personal-website",
+  "homepage": "https://craiiiig.github.io/craiglau",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^8.57.0",
     "framer-motion": "^8.4.3",
     "gh-pages": "^6.3.0",
     "react-countup": "^6.4.0",
