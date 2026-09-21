@@ -8,7 +8,7 @@ const Experience = () => {
       title: 'Web Developer',
       company: 'Australian Management College',
       location: 'Brisbane, Australia',
-      duration: 'March 2026 - Present',
+      duration: 'March 2026 - June 2026',
       description: 'Architecting high-performance web solutions using React.js and WordPress. I focus on engineering responsive UI components with advanced React Hooks, optimizing CMS workflows via Elementor/Astra, and managing full-cycle server deployments with a focus on security and performance.'
     },
     {
